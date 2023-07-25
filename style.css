@@ -1,0 +1,13 @@
+.card-header h1,h2{
+    font-size: 5rem;
+    text-align: center;
+}
+.card-header img{
+    border-radius: 2rem;
+    max-width: 500px;
+    display: block; /* Agregamos display: block; para permitir el ajuste del margen automático */
+    margin: 0 auto; /* Agregamos margen automático para centrar la imagen horizontalmente */
+}
+.text-center{
+    font-size: 2rem;
+}
